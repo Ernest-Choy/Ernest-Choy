@@ -4,7 +4,7 @@ My name is Ernest, student at SMT.
 
 📚I am currently learning Typescript, Python, and design in the robotics course.
 
-[https://i.pinimg.com/originals/c8/55/3c/c8553cddf0be91c008fe38faf6e9fc84.gif](url)
+(https://i.pinimg.com/originals/c8/55/3c/c8553cddf0be91c008fe38faf6e9fc84.gif)
 
 Examples of my work:
 
