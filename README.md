@@ -4,7 +4,7 @@ My name is Ernest, student at SMT.
 
 📚I am currently learning Typescript, Python, and design in the robotics course.
 
-![Alt Text](![image]([[https://github.com/Ernest-Choy/Ernest-Choy/assets/144264236/02b64e4f-efeb-41b4-804b-9e3c3f5ab748](https://i.pinimg.com/originals/c8/55/3c/c8553cddf0be91c008fe38faf6e9fc84.gif)](https://i.pinimg.com/originals/c8/55/3c/c8553cddf0be91c008fe38faf6e9fc84.gif))
+[https://i.pinimg.com/originals/c8/55/3c/c8553cddf0be91c008fe38faf6e9fc84.gif](url)
 
 Examples of my work:
 
